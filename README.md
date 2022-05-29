@@ -1,14 +1,14 @@
 # BadBank
 MIT Course Work - Week 27
 
-# Project Title:
+## Project Title:
 Bad Bank
 
-# Description / Motivation:
+## Description / Motivation:
 This project was to create / alter a three tier React application-(MERN) 
 This banking applicaton is for course work only and is meant as a teaching exercise- 
 
-# Installation / How to run:
+## Installation / How to run:
 Fork the repository-
 Click on the "Green Code" button in the respository- 
 Click Download Zip file and save it to your local machine- 
@@ -17,16 +17,16 @@ In a terminal window:
 npm install
 npm start
 
-# Screen Shots:
+## Screen Shots:
 Coming soon-
 
-# Technology Used:
+## Technology Used:
 React; NodeJS; Express; MongoDB; Docker
 
-# Features & Possible Improvements:
+## Features & Possible Improvements:
 It allows users to create an account, deposit, withdraw, and view the account information-
 Configure a reuseable input form for all screens-
 Add an authintication service from Firebase-
 
-# License Information:
+## License Information:
 MIT License
